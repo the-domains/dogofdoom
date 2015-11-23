@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DogofDoom]]></title>
         <description><![CDATA[DogofDoom]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dogofdoom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 20:33:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 Nov 2015 20:34:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dogofdoom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/e15/11335135_968956993164698_873155491_n.jpg">]]></description>
+            <link>https://thegrid.ai/dogofdoom/faa37ae5-dc5f-4d08-bab8-d2d9e8925fe7/index.html</link>
+            <guid isPermaLink="false">faa37ae5-dc5f-4d08-bab8-d2d9e8925fe7</guid>
+            <pubDate>Mon, 23 Nov 2015 20:33:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/10895076_623367444433766_1923871376_n.jpg">]]></description>
-            <link>undefined2f960174-f581-490b-a0a8-beec7da6f294/index.html</link>
+            <link>https://thegrid.ai/dogofdoom/2f960174-f581-490b-a0a8-beec7da6f294/index.html</link>
             <guid isPermaLink="false">2f960174-f581-490b-a0a8-beec7da6f294</guid>
             <pubDate>Mon, 23 Nov 2015 20:33:49 GMT</pubDate>
         </item>
