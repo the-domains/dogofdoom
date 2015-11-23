@@ -1,0 +1,28 @@
+name: DogofDoom
+favicon: null
+layout_spectrum: 0.30186836887151003
+typography_spectrum: 0.918162279529497
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4442032901570201
+  lightness: 0.3592752201948315
+  saturation: 0.945020642131567
+  rhythmicContrast: 0.9810869325883687
+purpose: []
