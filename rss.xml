@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[DogofDoom]]></title>
-        <description><![CDATA[DogofDoom]]></description>
+        <title><![CDATA[Here lies the dog... do not let it sleep quietly through the night]]></title>
+        <description><![CDATA[Here lies the dog... do not let it sleep quietly through the night]]></description>
         <link>https://thegrid.ai/dogofdoom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 20:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2016 19:23:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dogofdoom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Howling]]></title>
+            <description><![CDATA[<article><h1>Howling</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f48db903-8d98-4be4-93e8-68dc402f278b.png"></article>]]></description>
+            <link>https://thegrid.ai/dogofdoom/howling/index.html</link>
+            <guid isPermaLink="false">b3bcf467-6226-40b7-bf60-b948eab921a3</guid>
+            <pubDate>Fri, 15 Jan 2016 19:23:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-arn2-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/s720x720/12246810_10153692574800619_8084940987719929002_n.jpg?oh=0c8252814bc51793c4a9a0c0169a333c&oe=56E50804">]]></description>
+            <link>https://thegrid.ai/dogofdoom/fae59735-5853-46b5-a6b2-974f46f58b76/index.html</link>
+            <guid isPermaLink="false">fae59735-5853-46b5-a6b2-974f46f58b76</guid>
+            <pubDate>Mon, 23 Nov 2015 20:28:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Introduction]]></title>
-            <description><![CDATA[<h1>Introduction</h1>]]></description>
+            <description><![CDATA[<article><h1>Introduction</h1><p>Welcome to my experiments in both in using Thegrid.io -Ai driven website design, as well as documenting parts of life with a whippet. My hope is that the Ai will prove to be more bright than the dog himself, lovingly called "Dog of Doom". </p></article>]]></description>
             <link>https://thegrid.ai/dogofdoom/introduction/index.html</link>
             <guid isPermaLink="false">76627303-b7be-478b-8ec5-7cf6fec07541</guid>
             <pubDate>Mon, 23 Nov 2015 20:36:04 GMT</pubDate>
